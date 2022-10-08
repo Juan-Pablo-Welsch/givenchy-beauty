@@ -1,0 +1,65 @@
+.logo_givenchy {
+    width: 180px;
+}
+
+.ancho_contenedor {
+    width: 1120px;
+}
+
+.ancho-imagen {
+    width: 100%;
+}
+
+.menu_header {
+    display: flex;
+    flex-direction: row;
+}
+.menu_header li {
+    list-style: none;
+    padding: 10px;
+}
+
+.menu_header li a {
+    color: black;
+    text-decoration: none;
+}
+
+.menu_header2 {
+    display: flex;
+    flex-direction: row;
+}
+.menu_header2 li {
+    list-style: none;
+    padding: 25px;
+}
+
+.menu_header2 li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.fondo_tienda {
+    background-image: url("./1_desktop.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+}
+
+
+.menu_footer li {
+    list-style: none;
+    margin-left: -30px;
+}
+
+.menu_footer li a {
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+
+.parrafo_footer {
+    font-size: 12px;
+    color: grey;
+}
